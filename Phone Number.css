@@ -1,0 +1,59 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+#logo_align
+{
+    height: 150px;
+    width: 150px;
+    margin-left: 600px;
+    margin-top: 18px;
+}
+#hr
+{
+    margin-top: -90px;
+}
+#div1
+{
+    margin-top: 35px;
+}
+#pn
+{
+    font-size: 18px;
+    font-weight: 900;
+    margin-left: 600px;
+
+}
+#phonenumber
+{
+    height: 45px;
+    width: 350px;
+    margin-left: 25px;
+    padding-left: 10px ;
+    font-size: 16px;  
+    margin-top: 20px; 
+}
+#country
+{
+    height: 45px;
+    width: 100px;
+    margin-left: 470px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+#next
+{
+    height: 45px;
+    width: 100px;
+    background-color: rgb(10, 136, 10);
+    font-weight: 600;
+    border: 2px solid rgb(10, 136, 10);
+    border-radius: 30px;
+}
+#next_button
+{
+    margin-left: 470px;
+    margin-top: 40px;
+}
